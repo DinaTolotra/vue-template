@@ -3,6 +3,7 @@
 
 <template>
     Hello world!
+    ...
 </template>
 
 <style scoped>
