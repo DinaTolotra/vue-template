@@ -2,8 +2,7 @@
 </script>
 
 <template>
-    Hello world!
-    ...
+    <RouterView />
 </template>
 
 <style scoped>
