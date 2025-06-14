@@ -1,13 +1,9 @@
-<script setup></script>
+<script setup>
+</script>
 
 <template>
-  <header></header>
-
-  <main></main>
+    Hello world!
 </template>
 
 <style scoped>
-.primary {
-  color: var(--color-primary);
-}
 </style>
